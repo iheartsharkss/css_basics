@@ -1,5 +1,5 @@
  body {
-            background-color:rgb(246, 252, 218)
+            background-color:rgb(239, 242, 226)
         }
 h1 {
   background-color:rgb(246, 252, 218);
@@ -15,5 +15,13 @@ li {
 }
 h1, h2, h4 {
   font-family: Courier New;
+  size: 20px;
+}
+p, li, ol {
+  font-family: Arial;
+  size: 15px;
+}
+h1, h2, h4 {
+  border: 4px dotted rgb(249, 255, 198);
 }
 
