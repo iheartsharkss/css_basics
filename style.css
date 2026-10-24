@@ -1,0 +1,19 @@
+ body {
+            background-color:rgb(246, 252, 218)
+        }
+h1 {
+  background-color:rgb(246, 252, 218);
+  color: rgb(149, 188, 204);
+}
+p {
+  color: #77bba2;
+}
+
+li {
+  background-color:rgb(246, 252, 218);
+  color: green;
+}
+h1, h2, h4 {
+  font-family: Courier New;
+}
+
